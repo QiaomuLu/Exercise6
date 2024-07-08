@@ -15,7 +15,7 @@ library(remotes)
 # Submission
 
 ## a)
-In this R package there are functions for converting temperature types. For example, F_to_C(122) means converting 122 degree Fahrenheit to Celsius, and it returns 50 means 50 degree Celsius.
+In this R package there are functions for converting temperature types. For example, F_to_C(122) means converting 122 degree Fahrenheit to Celsius, and returning 50 means 50 degree Celsius.
 
 ## b)
 https://github.com/QiaomuLu/Exercise6
@@ -24,4 +24,4 @@ https://github.com/QiaomuLu/Exercise6
 ```{r}
 remotes::install_github("QiaomuLu/Exercise6")
 ```
-
+Yes, I can install my R package from GitHub.
