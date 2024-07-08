@@ -1,0 +1,27 @@
+---
+title: 'Exercise #6'
+author: "Qiaomu_Lu(12265424)"
+date: "2024-07-08"
+output: 
+  distill::distill_article: default
+subtitle: "Fortgeschrittene Statistische Software für NF - SS 2024"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(remotes)
+```
+
+# Submission
+
+## a)
+In this R package there are functions for converting temperature types. For example, F_to_C(122) means converting 122 degree Fahrenheit to Celsius, and it returns 50 means 50 degree Celsius.
+
+## b)
+https://github.com/QiaomuLu/Exercise6
+
+## c)
+```{r}
+remotes::install_github("QiaomuLu/Exercise6")
+```
+
