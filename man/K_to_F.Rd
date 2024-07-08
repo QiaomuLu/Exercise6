@@ -15,3 +15,8 @@ The converted Fahrenheit temperature
 \description{
 Kelvin to Fahrenheit
 }
+\examples{
+K_to_F(100)
+K_to_F(0)
+
+}

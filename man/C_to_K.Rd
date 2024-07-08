@@ -15,3 +15,8 @@ The converted Kelvin temperature
 \description{
 Celsius to Kelvin
 }
+\examples{
+C_to_K(100)
+C_to_K(0)
+
+}

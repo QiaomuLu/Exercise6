@@ -15,3 +15,8 @@ The converted Kelvin temperature
 \description{
 Fahrenheit to Kelvin
 }
+\examples{
+F_to_K(100)
+F_to_K(0)
+
+}

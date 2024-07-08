@@ -15,3 +15,8 @@ The converted Celsius temperature
 \description{
 Fahrenheit to Celsius
 }
+\examples{
+F_to_C(100)
+F_to_C(0)
+
+}
