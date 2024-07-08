@@ -1,7 +1,9 @@
 Package: Exercise6
 Title: Temperture Conversion Package
 Version: 0.0.0.9000
-Authors@R: QiaomuLu(12265424)
+Authors@R: person("Qiaomu", "Lu", 
+    email = "Lu.Qiaomu@campus.lmu.de",
+    role = c("aut", "cre"))
 Description: Convert three temperature types, 
     as well as Celsius, Fahrenheit and Kelvin, with each other.
 License: MIT + file LICENSE
